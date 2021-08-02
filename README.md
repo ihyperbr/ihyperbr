@@ -6,13 +6,6 @@
 - Tenho conhecimento sobre Desing tanto de Artes, Web e estou aprendendo Mobile.
 - Fiz um curso de animação, sei animar no 3Ds Max e no Cinema 4D
 - Tenho noção básica de banco de dados. Mas pretendo aprender mais sobre Banco de Dados ( mySQL ).
-
-
- <div>
-  <a href="https://github.com/ihyperbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihyperbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihyperbr&layout=compact&langs_count=7&theme=dark"/>
-</div>
  
  <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
@@ -24,6 +17,14 @@
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">  
+</div>
+
+
+ <div>
+  <a href="https://github.com/ihyperbr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihyperbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihyperbr&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
    ##
