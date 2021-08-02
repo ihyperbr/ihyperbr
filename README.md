@@ -1,11 +1,11 @@
 ## Olá! Meu nome é Bruno Costa C.
 
-- Hoje eu estou focado em Front-End, mas tenho noção de Back-end pós eu faço um curso Full-Stack.
-- Sei programar games, fiz alguns jogos no Unity, Unreal e em Java.
-- Irei começar a aprender desenvolvimento mobile.
-- Tenho conhecimento sobre Desing tanto de Artes, Web e estou aprendendo Mobile.
-- Fiz um curso de animação, sei animar no 3Ds Max e no Cinema 4D
-- Tenho noção básica de banco de dados. Mas pretendo aprender mais sobre Banco de Dados ( mySQL ).
+🍃 Hoje eu estou focado em Front-End, mas tenho noção de Back-end pós eu faço um curso Full-Stack.
+✍️ Sei programar games, fiz alguns jogos no Unity, Unreal e em Java.
+🧐 Irei começar a aprender desenvolvimento mobile.
+🎨 Tenho conhecimento sobre Desing tanto de Artes, Web e estou aprendendo Mobile.
+🚶🏽‍♂️  Fiz um curso de animação, sei animar no 3Ds Max e no Cinema 4D
+🎲 Tenho noção básica de banco de dados. Mas pretendo aprender mais sobre Banco de Dados ( mySQL ).
  
  
  - <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS3"      height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> <img align="center" alt="Bootstrap" height="30" width="40"            src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">( Intermédiario )
