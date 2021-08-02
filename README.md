@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Bruno Costa C.
 
 <!--Mini introdução-->
-- 🍃 Hoje eu estou focado em Front-End, mas tenho noção de Back-end pós eu faço um curso Full-Stack.
+- 🍃 Hoje eu estou focado em Front-End, mas tenho noção de Back-end pois eu faço um curso Full-Stack.
 - ✍️ Sei programar games, fiz alguns jogos no Unity, Unreal e em Java.
 - 🧐 Irei começar a aprender desenvolvimento mobile.
 - 🎨 Tenho conhecimento sobre Design de Artes e estou aprendendo Web, Mobile.
