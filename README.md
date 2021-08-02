@@ -1,5 +1,6 @@
 ## Olá! Meu nome é Bruno Costa C.
 
+<!--Mini introdução-->
 - 🍃 Hoje eu estou focado em Front-End, mas tenho noção de Back-end pós eu faço um curso Full-Stack.
 - ✍️ Sei programar games, fiz alguns jogos no Unity, Unreal e em Java.
 - 🧐 Irei começar a aprender desenvolvimento mobile.
@@ -9,6 +10,8 @@
  
 <br />
 
+<!--Tables do Github-->
+
  <div>
   <a href="https://github.com/ihyperbr">
   <img height="225em" = src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ihyperbr&theme=dark"/>
@@ -17,6 +20,8 @@
  
  <br />
  
+ <!--Habilidades-->
+ 
   - <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS3"      height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> <img align="center" alt="Bootstrap" height="30" width="40"            src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">( Intermédiario )
  
  - <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="PHP"    height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"> <img align="center" alt="Jquery" height="30" width="40"                    src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"> ( Básico-Intermédiario )
@@ -24,6 +29,8 @@
  - <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> <img align="center"              alt="Nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> <img align="center" alt="Csharp" height="30"          width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"> ( Básico ) 
  
     ##
+ 
+ <!--Redes Sociais e animação-->
  
 <div> 
    <a href="https://www.instagram.com/bruno.costa.c/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
