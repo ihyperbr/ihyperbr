@@ -14,15 +14,15 @@
 
 <!--Tables do Github-->
 
- <div>
+<div>
   <a href="https://github.com/ihyperbr">
-  <img height="225em" = src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ihyperbr&theme=dark"/>
+  <img height="225em" = src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ihyperbr&theme=dark"/> -  
   <img height="180em" = src="https://github-readme-stats.vercel.app/api?username=ihyperbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
  
- <br />
+<br />
  
- <!--Habilidades-->
+<!--Habilidades-->
  
   - <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS3"      height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> <img align="center" alt="Bootstrap" height="30" width="40"            src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">( Intermédiario )
  
@@ -30,12 +30,12 @@
  
  - <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> <img align="center"              alt="Nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> <img align="center" alt="Csharp" height="30"          width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"> ( Básico ) 
  
-    ##
+##
  
- <!--Redes Sociais e animação-->
+<!--Redes Sociais e animação-->
  
 <div> 
-   <a href="https://www.instagram.com/bruno.costa.c/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/bruno.costa.c/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: bruno_costa12@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-costa-a643621b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
