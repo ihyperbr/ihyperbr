@@ -1,4 +1,4 @@
-## Olá! Meu nome é Bruno Costa C. Eu tenho 19 anos.
+## Olá! Meu nome é Bruno Costa C.
 
 <!--Mini introdução-->
 - 🍃 Hoje eu estou focado em Front-End, mas tenho noção de Back-end pois eu faço um curso Full-Stack.
