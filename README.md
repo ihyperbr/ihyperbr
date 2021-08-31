@@ -41,4 +41,4 @@
  
   ![Snake animation](https://github.com/ihyperbr/ihyperbr/blob/output/github-contribution-grid-snake.svg) 
  
-</di
+ </div>
