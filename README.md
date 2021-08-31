@@ -1,4 +1,4 @@
-## Olá! Meu nome é Bruno Costa Carneiro
+## Olá! Meu nome é Bruno Costa C.
 
 <!--Mini introdução-->
 - 🍃 Hoje eu estou focado em Front-End, mas tenho noção de Back-end pois eu faço um curso Full-Stack.
@@ -41,4 +41,4 @@
  
   ![Snake animation](https://github.com/ihyperbr/ihyperbr/blob/output/github-contribution-grid-snake.svg) 
  
-</div>
+</di
