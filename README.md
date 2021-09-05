@@ -1,4 +1,4 @@
-## Olá,Tudo Bem? Meu nome é Bruno Costa C.
+## Olá, tudo bem? Meu nome é Bruno Costa C.               
 
 <!--Mini introdução-->
 - 🍃 Hoje eu estou focado em Front-End, mas tenho noção de Back-end pois eu faço um curso Full-Stack  Master na Danki.Code.
