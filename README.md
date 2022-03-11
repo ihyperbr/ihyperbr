@@ -4,8 +4,9 @@
 - 🍃 Hoje eu estou focado em Front-End, mas tenho noção de Back-end pois eu faço um curso Full-Stack  Master na Danki.Code.
 - 🧐 Irei começar a aprender desenvolvimento mobile.
 - 🎨 Tenho conhecimento sobre Design de Artes e estou aprendendo Web, Mobile.
--  🚶🏽‍♂️  Fiz um curso de animação, sei animar no 3Ds Max e no Cinema 4D.
-- 🎲 Tenho noção básica de banco de dados. Mas pretendo aprender mais sobre Banco de Dados ( mySQL ).
+- 🚶🏽‍♂️ Fiz um curso de animação, sei animar no 3Ds Max e no Cinema 4D.
+- 🧩 Sei fazer modelagem 3D.
+- 🎲 Tenho noção básica de banco de dados. Mas pretendo aprender mais sobre Banco de Dados.
  
 <br />
 
