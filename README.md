@@ -1,14 +1,9 @@
 ## Olá, tudo bem? Meu nome é Bruno Costa C.               
 
 <!--Mini introdução-->
-- 🍃 Hoje eu estou focado em Front-End, mas tenho noção de Back-end pois eu faço um curso Full-Stack  Master na Danki.Code.
-- 🧐 Irei começar a aprender desenvolvimento mobile.
-- 🎨 Tenho conhecimento sobre Design de Artes e estou aprendendo Web, Mobile.
-- 🚶🏽‍♂️ Fiz um curso de animação, sei animar no 3Ds Max e no Cinema 4D.
-- 🎲 Tenho noção básica de banco de dados.
+- 🎲 Full-Stack Master - DANKI CODE
 - 🌱 Programação Java - INSTITUTO PROA
-- 🌱 Full-Stack Master - DANKI CODE
- 
+
 <br />
 
 <!--Tables do Github-->
