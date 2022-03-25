@@ -15,8 +15,8 @@
 
 <div>
   <a href="https://github.com/ihyperbr">
-  <img height="225em" = src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ihyperbr&theme=github_dark"/> -  
-  <img height="180em" = src="https://github-readme-stats.vercel.app/api?username=ihyperbr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="225em" = src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ihyperbr&theme=swift"/> -  
+  <img height="180em" = src="https://github-readme-stats.vercel.app/api?username=ihyperbr&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
 </div>
  
 <br />
