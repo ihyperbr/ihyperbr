@@ -7,12 +7,14 @@
 <br />
 
  <img src="https://komarev.com/ghpvc/?username=ihyperbr-gomes&color=red" alt="Bruno Costa" />
+ 
+ <img height="200em" = src = https://github.com/ihyperbr/github-readme-stats) />
 
 <!--Tables do Github-->
 
 <div>
   <a href="https://github.com/ihyperbr">
-  <img height="195em" = src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ihyperbr&theme=apprentice"/> -  
+  <img height="200em" = src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ihyperbr&theme=apprentice&layout=compact"/> -  
   <img height="200em" = src="https://github-readme-stats.vercel.app/api?username=ihyperbr&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
 </div>
  
