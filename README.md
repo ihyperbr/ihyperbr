@@ -6,7 +6,7 @@
 
 <br />
 
- <img src="https://komarev.com/ghpvc/?username=ihyperbr&color=white" alt="Bruno Costa" />
+ <img src="https://komarev.com/ghpvc/?username=ihyperbr&color=blue" alt="Bruno Costa" />
  
 <!--Tables do Github-->
 
