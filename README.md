@@ -6,6 +6,8 @@
 
 <br />
 
+ <img src="https://komarev.com/ghpvc/?username=ihyperbr-gomes&color=red" alt="Bruno Costa" />
+
 <!--Tables do Github-->
 
 <div>
