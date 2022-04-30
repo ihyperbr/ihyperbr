@@ -12,7 +12,7 @@
 
 <div>
   <a href="https://github.com/ihyperbr">
-  <img height="200em" width="400em" = src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ihyperbr&theme=apprentice&layout=compact"/> -  
+  <img height="200em" width="400em" = src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ihyperbr&theme=apprentice&layout=compact"/> .  
   <img height="200em" width="400em" = src="https://github-readme-stats.vercel.app/api?username=ihyperbr&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
 </div>
  
@@ -20,7 +20,7 @@
  
 <!--Habilidades-->
  
--<img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img align="center"   alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img align="center" alt="Js" height="30"     width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"><img align="center" alt="ReactJS" height="30" width="40"       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img align="center" alt="Bootstrap" height="30" width="40"                         src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"><img align="center" alt="PHP" height="30" width="40"                         src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"><img align="center" alt="JAVA" height="30" width="40"                                     src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"><img align="center" alt="Csharp" height="30" width="40"                             src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"><img align="center" alt="Figma" height="30" width="40"                           src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+<img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img align="center"   alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img align="center" alt="Js" height="30"     width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"><img align="center" alt="ReactJS" height="30" width="40"       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img align="center" alt="Bootstrap" height="30" width="40"                         src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"><img align="center" alt="PHP" height="30" width="40"                         src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"><img align="center" alt="JAVA" height="30" width="40"                                     src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"><img align="center" alt="Csharp" height="30" width="40"                             src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"><img align="center" alt="Figma" height="30" width="40"                           src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   
 ##
  
