@@ -4,8 +4,6 @@
 
 - 🎲 Full-Stack Master - DANKI CODE
 - 🌱 Programação Java - INSTITUTO PROA
-
-<br />
  
 <hr />
   
@@ -14,8 +12,6 @@
  <h3>Tecnlogias que eu tenho conhecimento:</h3>
  
 <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img align="center"   alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img align="center" alt="Js" height="30"     width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"><img align="center" alt="ReactJS" height="30" width="40"       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img align="center" alt="Bootstrap" height="30" width="40"                         src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"><img align="center" alt="PHP" height="30" width="40"                         src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"><img align="center" alt="JAVA" height="30" width="40"                                     src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"><img align="center" alt="Csharp" height="30" width="40"                             src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"><img align="center" alt="Figma" height="30" width="40"                           src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  
-##
 
 <hr />
  
@@ -37,8 +33,6 @@
   <img height="200em" width="400em" = src="https://github-readme-stats.vercel.app/api?username=ihyperbr&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=ihyperbr&color=blue" alt="Bruno Costa" />
- 
-<br />
  
 <hr />
  
