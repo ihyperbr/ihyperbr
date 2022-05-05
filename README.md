@@ -20,7 +20,6 @@
  
  <h3>Tecnologias que eu tenho conhecimento:</h3>
  
- <br /> 
  
 <h5>Programação:</h5>
 
