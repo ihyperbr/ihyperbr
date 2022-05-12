@@ -2,7 +2,7 @@
 <h1> Olá, tudo bem? 😁</h1>     
 
 <h3>Um pouco sobre mim...</h3>
-<p>Meu nome é Bruno Costa C. e eu tenho 20 anos. Eu estou em foco em desenvolvimento front-end e designer, tenho conhecimentos em programação de games e de aplicativos e na área de design, sei fazer animações e editar vídeos, tenho conhecimento básico na área de banco de dados. Gosto sempre de aprender coisas novas e ampliar meus conhecimentos e principalmente quando o assunto é tecnologia que eu amo. 💻</p>
+<p>Meu nome é Bruno Costa C. e eu tenho 20 anos. <br/> Eu estou em foco em desenvolvimento front-end e designer, tenho conhecimentos em programação de games e de aplicativos e na área de design, sei fazer animações e editar vídeos, tenho conhecimento básico na área de banco de dados. Gosto sempre de aprender coisas novas e ampliar meus conhecimentos e principalmente quando o assunto é tecnologia que eu amo. 💻</p>
 
 <p>🎲 Full-Stack Master - DANKI CODE</p>
 <p>🌱 Programação Java - INSTITUTO PROA</p>
