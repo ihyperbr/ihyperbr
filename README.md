@@ -1,8 +1,8 @@
 <div align="center">
-## Olá, tudo bem?     
+<h1> Olá, tudo bem?</h1>     
 
 <h3>Um pouco sobre mim...</h3>
--Meu nome é Bruno Costa C. e eu tenho 20 anos. Eu estou em foco em desenvolvimento front-end e designer, tenho conhecimentos em programação de games e de aplicativos e na área de design, sei fazer animações e editar vídeos, tenho conhecimento básico na área de banco de dados. Gosto sempre de aprender coisas novas e ampliar meus conhecimentos e principalmente quando o assunto é tecnologia que eu amo. 💻
+Meu nome é Bruno Costa C. e eu tenho 20 anos. Eu estou em foco em desenvolvimento front-end e designer, tenho conhecimentos em programação de games e de aplicativos e na área de design, sei fazer animações e editar vídeos, tenho conhecimento básico na área de banco de dados. Gosto sempre de aprender coisas novas e ampliar meus conhecimentos e principalmente quando o assunto é tecnologia que eu amo. 💻
 
 <br />
 <br />
@@ -10,6 +10,7 @@
 
 - 🎲 Full-Stack Master - DANKI CODE
 - 🌱 Programação Java - INSTITUTO PROA
+  
 </div>
 
 <hr />
@@ -46,7 +47,7 @@
 
 <div align="center">
 <a href="https://github.com/ihyperbr">
-<img height="200em" width="400em" = src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ihyperbr&theme=discord_old_blurple&layout=compact"/> .  
+<img height="200em" width="400em" = src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ihyperbr&theme=discord_old_blurple&layout=compact"/>  
 <img height="200em" width="400em" = src="https://github-readme-stats.vercel.app/api?username=ihyperbr&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
 </div>
  
