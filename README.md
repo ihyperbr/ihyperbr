@@ -29,7 +29,8 @@ Eu estou em foco em desenvolvimento front-end e designer, tenho conhecimentos em
 <!--Redes Sociais-->
   
 <h3>Redes Sociais:</h3>
-<a href="https://www.linkedin.com/in/bruno-costa-a643621b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/bruno.costa.c/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/bruno-costa-a643621b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href="mailto:bruno_costa12@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <hr />
