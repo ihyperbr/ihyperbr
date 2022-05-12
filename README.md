@@ -1,3 +1,4 @@
+<div align="center">
 ## Olá, tudo bem?     
 
 <h3>Um pouco sobre mim...</h3>
@@ -9,13 +10,13 @@
 
 - 🎲 Full-Stack Master - DANKI CODE
 - 🌱 Programação Java - INSTITUTO PROA
- 
+</div>
+
 <hr />
   
 <!--Habilidades-->
  
- <h3>Tecnologias que eu tenho conhecimento:</h3>
- 
+<h3 align="center">Tecnologias que eu tenho conhecimento:</h3> 
  
 <h5 align="center">Programação:</h5>
 
@@ -32,12 +33,13 @@
 <hr />
  
 <!--Redes Sociais-->
-  <h3 align="center">Redes Sociais:</h3>
+<h3 align="center">Redes Sociais:</h3>
  
 <div align="center"> 
 <a href="https://www.linkedin.com/in/bruno-costa-a643621b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:bruno_costa12@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
+
 <hr />
  
 <!--Tables do Github-->
@@ -46,11 +48,12 @@
 <a href="https://github.com/ihyperbr">
 <img height="200em" width="400em" = src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ihyperbr&theme=discord_old_blurple&layout=compact"/> .  
 <img height="200em" width="400em" = src="https://github-readme-stats.vercel.app/api?username=ihyperbr&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+</div>
+ 
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=ihyperbr&color=blue" alt="Bruno Costa" />
 </div>
  
 <hr />
  
 ![Snake animation](https://github.com/ihyperbr/ihyperbr/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
