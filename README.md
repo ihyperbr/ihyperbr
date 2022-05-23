@@ -1,6 +1,6 @@
 <div align="center">
   
-<h1> Olá, tudo bem? 😁</h1>   
+<h3> Olá, tudo bem? 😁</h3>   
   
 <hr />
   
@@ -15,12 +15,12 @@ Eu estou em foco em desenvolvimento front-end e designer, tenho conhecimentos em
   
 <!--Habilidades-->
  
-<h2>Tecnologias que eu tenho conhecimento:</h2> 
+<h3>Tecnologias que eu tenho conhecimento:</h2> 
 
-<h3>Programação:</h3>
+<h4>Programação:</h4>
 <img alt="HTML5" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img alt="CSS3" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img alt="Js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"><img alt="ReactJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img alt="Bootstrap" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"><img alt="PHP" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"><img alt="JAVA" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"><img alt="Csharp" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"><img alt="Mysql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 
-<h3>Design:</h3>  
+<h4>Design:</h4>  
 <img alt="Photoshop" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"><img alt="Illustrator" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"><img alt="Figma" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 
 <hr />
