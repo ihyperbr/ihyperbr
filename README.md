@@ -37,8 +37,8 @@ Eu estou em foco em desenvolvimento front-end e designer, tenho conhecimentos em
 <!--Tabelas do Github-->
 
 <a href="https://github.com/ihyperbr">
-<img height="300em" width="400em" = src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ihyperbr&theme=discord_old_blurple&layout=compact" />
-<img height="300em" width="400em" = src="https://github-readme-stats.vercel.app/api?username=ihyperbr&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true" />
+<img height="200em" width="400em" = src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ihyperbr&theme=discord_old_blurple&layout=compact" />
+<img height="200em" width="420em" = src="https://github-readme-stats.vercel.app/api?username=ihyperbr&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true" />
   
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ihyperbr&color=blue" alt="Bruno Costa" />
