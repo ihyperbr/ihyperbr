@@ -15,7 +15,7 @@ Eu estou em foco em desenvolvimento front-end e designer, tenho conhecimentos em
   
 <!--Habilidades-->
  
-<h3>Tecnologias que eu tenho conhecimento:</h2> 
+<h3>Tecnologias que eu tenho conhecimento:</h2>
 
 <h4>Programação:</h4>
 <img alt="HTML5" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img alt="CSS3" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img alt="Js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"><img alt="ReactJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img alt="Bootstrap" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"><img alt="PHP" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"><img alt="JAVA" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
