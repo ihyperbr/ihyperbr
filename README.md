@@ -1,4 +1,5 @@
 <div align="center">
+<hr />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&duration=10000&color=FF0000&center=verdadeiro&vCenter=verdadeiro&width=340&lines=%E2%96%9E+%E2%96%B6%E2%96%B7+%E3%80%94+Olá,+tudo+bem?+😁+%E3%80%95+%E2%97%80%E2%97%81+%E2%96%9A)](https://git.io/typing-svg)
   
