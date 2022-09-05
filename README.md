@@ -10,7 +10,8 @@
 Eu estou em foco em desenvolvimento front-end e designer, tenho conhecimentos em programação de games e de aplicativos e na área de design, sei fazer animações e editar vídeos, tenho conhecimento básico na área de banco de dados. Gosto sempre de aprender coisas novas e ampliar meus conhecimentos e principalmente quando o assunto é tecnologia que eu amo. 💻</p>
   
 <p>🎲 Full-Stack Master - DANKI CODE</p>
-<p>🌱 Programação Java - INSTITUTO PROA</p>
+<p>🎲 Programação Java - INSTITUTO PROA</p>
+<p>🎲 JavaScript/TypeScript - Udemy</p>
 
 <hr />
   
