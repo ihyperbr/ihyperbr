@@ -37,9 +37,6 @@ Gosto sempre de aprender coisas novas e ampliar meus conhecimentos e principalme
 
   <div align="center">  
     <img src="https://komarev.com/ghpvc/?username=ihyperbr&color=blue" alt="Bruno Costa" />
-
-
-  <hr />
     
 ![Snake animation](https://github.com/ihyperbr/ihyperbr/blob/output/github-contribution-grid-snake.svg)
   </div>    
