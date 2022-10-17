@@ -28,7 +28,9 @@ Gosto sempre de aprender coisas novas e ampliar meus conhecimentos e principalme
 
   <hr />
   
+  <div align="center">  
      <img src="https://komarev.com/ghpvc/?username=ihyperbr&color=blue" alt="Bruno Costa" />
+  </div>
   
   <!--Tabelas do Github-->
   <div align="center">
