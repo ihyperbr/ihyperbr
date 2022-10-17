@@ -1,11 +1,11 @@
-<div align="center">
+<div>
 <hr />
  
-  <h3>Olá, tudo bem? 😁</h3>
+  <h3 align="center">Olá, tudo bem? 😁</h3>
   
 <hr />
   
-<h3>Um pouco sobre mim...</h3>
+<h3 align="center">Um pouco sobre mim...</h3>
 <p>Meu nome é Bruno Costa C. e eu tenho 20 anos. <br/> 
 
 <li>🛠 Desenvolvedor Front-End Junior ( ReactJS ) & Designer.</li><br/>  
