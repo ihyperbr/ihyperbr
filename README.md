@@ -27,10 +27,11 @@ Gosto sempre de aprender coisas novas e ampliar meus conhecimentos e principalme
   <a href="mailto:bruno.costa.c06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   <hr />
-
+  
+     <img src="https://komarev.com/ghpvc/?username=ihyperbr&color=blue" alt="Bruno Costa" />
+  
   <!--Tabelas do Github-->
   <div align="center">
-     <img src="https://komarev.com/ghpvc/?username=ihyperbr&color=blue" alt="Bruno Costa" />
      <a href="https://github.com/ihyperbr">
      <img height="200em" width="400em" = src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihyperbr&theme=discord_old_blurple&layout=compact" />
      <img height="200em" width="400em" = src="https://github-readme-stats.vercel.app/api?username=ihyperbr&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true" />
