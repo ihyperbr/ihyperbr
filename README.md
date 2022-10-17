@@ -40,7 +40,7 @@ Gosto sempre de aprender coisas novas e ampliar meus conhecimentos e principalme
   </div>
 
   <hr />
-  <div align="center">   
+    
 ![Snake animation](https://github.com/ihyperbr/ihyperbr/blob/output/github-contribution-grid-snake.svg)
-  </div>
+    
 </div> 
