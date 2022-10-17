@@ -3,15 +3,15 @@
     <h3 align="center">Olá, tudo bem? 😁</h3>
   <hr />
 
-  <h3 align="center">Um pouco sobre mim...</h3>
-    <p>Meu nome é Bruno Costa C. e eu tenho 20 anos. <br/> 
+<h3 align="center">Um pouco sobre mim...</h3>
+<p>Meu nome é Bruno Costa C. e eu tenho 20 anos. <br/> 
 
-    <li>🛠 Desenvolvedor Front-End Junior ( ReactJS ) & Designer.</li><br/>  
+<li>🛠 Desenvolvedor Front-End Junior ( ReactJS ) & Designer.</li><br/>  
 
-    Tenho conhecimentos em programação de games, de aplicativos, na área de hardware e na área de design, sei fazer animações e editar vídeos, tenho conhecimento básico na área de banco de dados. 
-    Gosto sempre de aprender coisas novas e ampliar meus conhecimentos e principalmente quando o assunto é tecnologia.</p>
+Tenho conhecimentos em programação de games, de aplicativos, na área de hardware e na área de design, sei fazer animações e editar vídeos, tenho conhecimento básico na área de banco de dados. 
+Gosto sempre de aprender coisas novas e ampliar meus conhecimentos e principalmente quando o assunto é tecnologia.</p>
 
-    <hr />
+<hr />
 
   <!--Habilidades-->
 
