@@ -41,6 +41,6 @@ Gosto sempre de aprender coisas novas e ampliar meus conhecimentos e principalme
 
   <hr />
   <div align="center">   
-    ![Snake animation](https://github.com/ihyperbr/ihyperbr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ihyperbr/ihyperbr/blob/output/github-contribution-grid-snake.svg)
   </div>
 </div> 
