@@ -37,7 +37,7 @@ Tenho conhecimentos em programação web, games e aplicativos, na área de hardw
   <div align="center">
      <a href="https://github.com/ihyperbr">
      <img height="170em" width="390em" = src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrunoc&theme=discord_old_blurple&layout=compact" />
-     <img height="210em" width="380em" = src="https://github-readme-stats.vercel.app/api?username=ibrunoc&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true" />
+     <img height="170em" width="380em" = src="https://github-readme-stats.vercel.app/api?username=ibrunoc&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true" />
   </div>
 
   <div align="center">  
