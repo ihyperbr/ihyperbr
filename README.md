@@ -3,9 +3,12 @@
 
 <div>
   <hr />
-    <li>🛠 Desenvolvedor Front-End Junior ( ReactJS ) & Designer.</li><br/>  
+    <li>🛠 Desenvolvedor Front-End Junior ( ReactJS ) & Designer.</li>
+    <br/>  
     
-Tenho conhecimentos em programação web, games e aplicativos, na área de hardware e na área de design, sei fazer animações e editar vídeos, tenho conhecimento básico na área de banco de dados e pacote office.</p>
+Tenho conhecimentos em programação web, games e mobile, na área de hardware e na área de design, Sei fazer animações e editar fotos e vídeos, tenho conhecimento básico na área de banco de dados e pacote office. </p>
+
+Faço faculdade na área de T.I, Ánalise e Desenvolvimento de Sistemas.
   
 
   <hr />
