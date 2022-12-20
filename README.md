@@ -4,10 +4,9 @@
 <div>
   <hr />
     <li>🛠 Desenvolvedor Front-End Junior ( ReactJS ) & Designer.</li><br/>  
-
-    <div>
-      <p>Tenho conhecimentos em programação web, games e aplicativos, na área de hardware e na área de design, sei fazer animações e editar vídeos, tenho conhecimento básico na área de banco de dados e pacote office.</p>
-  </div>
+    
+Tenho conhecimentos em programação web, games e aplicativos, na área de hardware e na área de design, sei fazer animações e editar vídeos, tenho conhecimento básico na área de banco de dados e pacote office.</p>
+  
 
   <hr />
 
@@ -23,7 +22,7 @@
   <div align="center">
     <h3>Tecnologias</h2>
 
-    <img alt="HTML5" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img alt="CSS3" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img alt="Js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"><img alt="TypeScript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"><img alt="ReactJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img alt="ReactJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"><img alt="Bootstrap" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"><img alt="PHP" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"><img alt="GIT" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+   <img alt="HTML5" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img alt="CSS3" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img alt="Js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"><img alt="TypeScript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"><img alt="ReactJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img alt="ReactJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"><img alt="Bootstrap" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"><img alt="PHP" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"><img alt="GIT" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   </div>
   
   <hr />
