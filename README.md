@@ -1,8 +1,7 @@
 #  Hello, I'm Bruno Costa C. 😁
 
 <div>
-  <hr />
-  
+  <hr />  
     <li>🛠 Developer Front-End Junior ( ReactJS ) and Designer</li>
     <br/>  
     
