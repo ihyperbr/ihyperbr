@@ -36,10 +36,10 @@ Faço faculdade na área de T.I, Ánalise e Desenvolvimento de Sistemas.
   
 <!--Tabelas do Github-->
   
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibrunoc&theme=discord_old_blurple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibrunoc&hide=Html&theme=discord_old_blurple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibrunoc&theme=discord_old_blurple) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibrunoc&theme=node_darks) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibrunoc&hide=Html&theme=node_darks) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibrunoc&theme=node_darks) |
   | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrunoc&theme=discord_old_blurple) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ibrunoc&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrunoc&theme=node_darks) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ibrunoc&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
   | :-: | :-: |
   
   <div align="center">  
