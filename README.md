@@ -21,11 +21,9 @@ I study at the IT area, Analysis and Systems Development.
   
 <!--Habilidades-->
 
-  <div align="center">
    <h3>Languages and Technologies</h2>
 
    <img alt="HTML5" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img alt="CSS3" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img alt="Js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"><img alt="TypeScript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"><img alt="ReactJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img alt="ReactJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"><img alt="Bootstrap" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"><img alt="PHP" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"><img alt="GIT" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  </div>
   
   <hr />
   
