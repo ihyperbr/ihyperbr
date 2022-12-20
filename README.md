@@ -34,12 +34,13 @@ Faço faculdade na área de T.I, Ánalise e Desenvolvimento de Sistemas.
      <img src="https://komarev.com/ghpvc/?username=ibrunoc&color=blue" alt="Bruno Costa" />
   </div>
   
-  <!--Tabelas do Github-->
-  <div align="center">
-     <a href="https://github.com/ihyperbr">
-     <img height="170em" width="390em" = src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrunoc&theme=discord_old_blurple&layout=compact" />
-     <img height="170em" width="380em" = src="https://github-readme-stats.vercel.app/api?username=ibrunoc&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true" />
-  </div>
+<!--Tabelas do Github-->
+  
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibrunoc&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibrunoc&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibrunoc&theme=nord_dark) |
+  | :-: | :-: | :-: |
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrunoc&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ibrunoc&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+  | :-: | :-: |
 
   <div align="center">  
     
