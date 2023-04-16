@@ -21,9 +21,21 @@ I study at the IT area, Analysis and Systems Development.
   
 <!--Habilidades-->
 
-   <h3>Languages and Technologies</h2>
+   <h2>Languages and Technologies:</h2>
 
-   <img alt="HTML5" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img alt="CSS3" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img alt="Js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"><img alt="TypeScript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"><img alt="ReactJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img alt="ReactJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"><img alt="Bootstrap" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"><img alt="PHP" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"><img alt="Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"><img alt="MySql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"><img alt="GIT" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+   <h3>Front-End</h3>
+   
+   <img alt="HTML5" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img alt="CSS3" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img alt="Js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"><img alt="TypeScript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"><img alt="ReactJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img alt="Sass" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"><img alt="NextJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"><img alt="Bootstrap" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+   
+   <h3>Back-End</h3>
+   
+   <img alt="PHP" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"><img alt="Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img alt="Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"><img alt="MySql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
+   
+   <h3>Design</h3>
+   <img alt="Figma" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"><img alt="Figma" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"><img alt="Illustrator" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"><img alt="Canva" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+   
+   <h3>Orthers</h3>
+   <img alt="GIT" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"><img alt="Trello" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"><img alt="Jira" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
   
   <hr />
   
