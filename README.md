@@ -53,6 +53,7 @@ I study at the IT area, Analysis and Systems Development.
     <br>
   </div>
   
+  <hr />  
 <!--Tabelas do Github-->
   
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibrunoc&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibrunoc&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibrunoc&theme=nord_dark) |
