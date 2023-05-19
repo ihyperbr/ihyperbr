@@ -1,8 +1,10 @@
+<img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
+
 #  Hello, I'm Bruno Costa C. 😁
 
 <div>
   <hr />  
-    <li>🛠 Developer Front-End Junior ( ReactJS ) and Designer</li>
+    <li>🛠 Developer Front-End Junior and Designer</li>
     <br/>  
     
 I have knowledge in web, games and mobile programming, in the hardware area and in the design area, I know how to make animations and edit photos and videos, I have basic knowledge in the area of database and office package. </p>
@@ -25,22 +27,30 @@ I study at the IT area, Analysis and Systems Development.
 
    <h3>Front-End</h3>
    
-   <img alt="HTML5" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img alt="CSS3" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img alt="Js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"><img alt="TypeScript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"><img alt="ReactJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img alt="Sass" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"><img alt="NextJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"><img alt="Bootstrap" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+   <div style="display: inline_block"><br>
+    <img src="https://devicons.dev.br/icons?icon=HTML,CSS,Sass,JavaScript,TypeScript,ReactJs,NextJs,Bootstrap,Git&size=60&theme=dark&perline=14">
+   </div>
    
    <h3>Back-End</h3>
+
+   <div style="display: inline_block"><br>
+    <img src="https://devicons.dev.br/icons?icon=PHP,Python,Java,Mysql&size=60&theme=dark&perline=14">
+   </div>
    
-   <img alt="PHP" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"><img alt="Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img alt="Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"><img alt="MySql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
    
    <h3>Design</h3>
-   <img alt="Figma" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"><img alt="Figma" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"><img alt="Illustrator" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"><img alt="Canva" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
-   
-   <h3>Orthers</h3>
-   <img alt="GIT" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"><img alt="Trello" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"><img alt="Jira" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
+
+   <div style="display: inline_block"><br>
+    <img src="https://devicons.dev.br/icons?icon=Figma,Photoshop,Illustrator&size=60&theme=dark&perline=14">
+   </div>
   
   <hr />
   
-  <div align="center">  
-     <img src="https://komarev.com/ghpvc/?username=ibrunoc&color=blue" alt="Bruno Costa" />
+  <div align="center">
+    <br>
+      <p align="centre"><b>Visitors Count</b></p>  
+      <img align="center" src="https://profile-counter.glitch.me/{ibrunoc}/count.svg" />
+    <br>
   </div>
   
 <!--Tabelas do Github-->
@@ -57,3 +67,5 @@ I study at the IT area, Analysis and Systems Development.
     
   </div>    
 </div> 
+
+<img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
