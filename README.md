@@ -4,7 +4,7 @@
 
 <div>
   <hr />  
-    <li>🛠 Developer Front-End Junior and Designer</li>
+    <li>🛠 Web Developer Junior and Designer</li>
     <br/>  
     
 I have knowledge in web, games and mobile programming, in the hardware area and in the design area, I know how to make animations and edit photos and videos, I have basic knowledge in the area of database and office package. </p>
