@@ -41,16 +41,7 @@ I study at the IT area, Analysis and Systems Development.
    </div>
   
   <hr />
-  
-  <div align="center">
-    <br>
-      <p align="centre"><b>Visitors Count</b></p>  
-      <img align="center" src="https://profile-counter.glitch.me/{ibrunoc}/count.svg" />
-    <br>
-  </div>
-  
-  <hr />  
-  
+      
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibrunoc&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibrunoc&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibrunoc&theme=nord_dark) |
   | :-: | :-: | :-: |
 
