@@ -13,7 +13,7 @@ I study at the IT area, Analysis and Systems Development.
   
   <hr />
 
-  <h3>Social media</h3>  
+  <h3>Social Media:</h3>  
     <a href="https://www.linkedin.com/in/bruno-costa-a643621b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
     <a href="https://www.behance.net/ibrunoc/" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>  
     <a href="mailto:bruno.costa.c06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -22,20 +22,20 @@ I study at the IT area, Analysis and Systems Development.
   
    <h2>Languages and Technologies:</h2>
 
-   <h3>Front-End</h3>
+   <h3>Front-End:</h3>
    
    <div style="display: inline_block"><br>
     <img src="https://devicons.dev.br/icons?icon=HTML,CSS,Sass,JavaScript,TypeScript,ReactJs,NextJs,Bootstrap,Git&size=60&theme=dark&perline=14">
    </div>
    
-   <h3>Back-End</h3>
+   <h3>Back-End:</h3>
 
    <div style="display: inline_block"><br>
     <img src="https://devicons.dev.br/icons?icon=PHP,Python,Java,Mysql&size=60&theme=dark&perline=14">
    </div>
    
    
-   <h3>Design</h3>
+   <h3>Design:</h3>
 
    <div style="display: inline_block"><br>
     <img src="https://devicons.dev.br/icons?icon=Figma,Photoshop,Illustrator&size=60&theme=dark&perline=14">
