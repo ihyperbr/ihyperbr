@@ -28,7 +28,7 @@ I study at the IT area, Analysis and Systems Development.
    <h2>Languages and Technologies I'Ve Studied:</h2>
    
    <div style="display: inline_block">
-    <img src="https://devicons.dev.br/icons?icon=TypeScript,Bootstrap,Wordpress,JQuery,PHP,Laravel,Java,AndroidStudio,VisualStudio,Unity,UnrealEngine,Godot,GameMakerStudio,Mysql,Illustrator,AfterEffects,Blender&size=40&theme=dark&perline=14">
+    <img src="https://devicons.dev.br/icons?icon=TypeScript,Bootstrap,Wordpress,JQuery,PHP,Java,AndroidStudio,VisualStudio,Unity,UnrealEngine,Godot,GameMakerStudio,Mysql,Illustrator,AfterEffects,Blender&size=40&theme=dark&perline=14">
    </div>
      
   <hr />
