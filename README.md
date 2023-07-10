@@ -1,5 +1,3 @@
-<img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
-
 <h2> Hello, I'm Bruno Costa C. 😁</h2> 
 
 <div>
