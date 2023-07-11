@@ -1,3 +1,5 @@
+<img src="./Images/CapaGithub.jpg"></img>
+
 <h2> Hello, I'm Bruno Costa C. 😁</h2> 
 
 <div>
