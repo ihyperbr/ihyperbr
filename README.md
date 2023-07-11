@@ -1,4 +1,4 @@
-<img style="height: 250px;" src="./Images/CapaGithub.jpg"></img>
+<img src="./Images/CapaGithub.jpg"></img>
 
 <h2> Olá, meu nome é Bruno Costa C. 😁</h2> 
 <li>🛠 Dev. Web Junior e Designer</li><br/>  
