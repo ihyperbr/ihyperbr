@@ -33,7 +33,7 @@
 
 <div>
   <h2>Redes Sociais:</h2>  
-    <a href="https://www.linkedin.com/in/bruno-costa-a643621b2/" target="_blank"><img style="width: 60px; height:60px;" src="./Images/ICON/Linkedin.svg" target="_blank"></a>  
+    <a href="http://linkedin.com/in/brunocostac" target="_blank"><img style="width: 60px; height:60px;" src="./Images/ICON/Linkedin.svg" target="_blank"></a>  
     <a href="https://www.behance.net/ibrunoc/" target="_blank"><img style="width: 60px; height: 60px;" src="./Images/ICON/Behance.svg" target="_blank"></a>      
     <a href="https://www.instagram.com/bruno.costa.c/" target="_blank"><img style="width: 60px; height: 60px;" src="./Images/ICON/Instagram.svg" target="_blank"></a>  
     <a href="https://www.brunoc.dev/"><img style="width: 60px; height: 60px;" src="./Images/ICON/Website.svg" target="_blank"></a>
