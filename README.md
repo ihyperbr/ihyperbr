@@ -43,10 +43,17 @@
 <br />
 
 <div>
-  <h2>Status no GitHub:</h2>  
-
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibrunoc&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrunoc&theme=nord_dark) |
+<h2>Status no GitHub:</h2> 
+  
+<div align="center">
+       
+   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibrunoc&theme=transparent ) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrunoc&layout=compact&langs_count=8&theme=transparent&hide_border=true)](https://github.com/ibrunoc/github-readme-stats) |
   | :-: | :-: |
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrunoc&theme=transparent) | 
+  | :-: |    
+  
+</div>
 </div>
 
   <div align="center">      
