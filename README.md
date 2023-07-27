@@ -55,10 +55,4 @@
   
 </div>
 </div>
-
-  <div align="center">      
-    
-  ![snake game](https://github.com/ibrunoc/ibrunoc/blob/output/github-contribution-grid-snake.svg)
-    
-  </div>    
 </div>
