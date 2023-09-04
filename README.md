@@ -16,17 +16,19 @@
 <br />
   
 <div>
-  <h2>Tecnologias e linguagens que estou utilizando no momento:</h2>  
+  <h2>Tecnologias:</h2>  
   
   <div style="display: inline_block">
-    <img src="https://devicons.dev.br/icons?icon=HTML,CSS,Sass,JavaScript,React,NextJs,StyledComponents,Git,Python,Figma,Photoshop&size=50&theme=dark&perline=14">   
+    <img src="https://devicons.dev.br/icons?icon=HTML,CSS,Sass,JavaScript,React,NextJs,StyledComponents,TypeScript,Git,PHP,Python,Figma,Photoshop,Illustrator&size=50&theme=dark&perline=14">   
   </div>
  
+  <!--
+  e linguagens que estou utilizando no momento
   <h2>Tecnologias e linguagens que já estudei e/ou usei:</h2>   
   
   <div style="display: inline_block">
-    <img src="https://devicons.dev.br/icons?icon=TypeScript,Bootstrap,Wordpress,JQuery,PHP,Java,AndroidStudio,VisualStudio,Unity,UnrealEngine,Godot,GameMakerStudio,Mysql,Illustrator,AfterEffects,Blender&size=40&theme=dark&perline=14">
-  </div>
+    <img src="https://devicons.dev.br/icons?icon=Bootstrap,Wordpress,JQuery,Java,AndroidStudio,VisualStudio,Unity,UnrealEngine,Godot,GameMakerStudio,Mysql,AfterEffects,Blender&size=40&theme=dark&perline=14">
+  </div>-->
 </div>   
 
 <br />
