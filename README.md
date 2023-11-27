@@ -39,12 +39,8 @@
   
 <div align="left">
        
-   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibrunoc&theme=transparent ) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrunoc&layout=compact&langs_count=8&theme=transparent&hide_border=true)](https://github.com/ibrunoc/github-readme-stats) |
+   | ![](https://github-readme-stats.vercel.app/api?username=ibrunoc&show_icons=true&theme=transparent&hide_border=true&card_width=470px ) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrunoc&layout=compact&theme=transparent&hide_border=true&card_width=470px&langs_count=8)](https://github.com/ibrunoc/github-readme-stats) |
   | :-: | :-: |
-
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrunoc&theme=transparent) | 
-  | :-: |    
   
-</div>
 </div>
 </div>
