@@ -1,25 +1,19 @@
-<img src="./Images/CapaGithub.jpg"></img>
+<!--<img src="./Images/CapaGithub.jpg"></img>-->
 
 <h2> Olá, meu nome é Bruno Costa C. 😁</h2> 
-<li>🛠 Dev. Web Junior e Designer</li><br/>  
+<!--<li>🛠 Dev. Web Junior e Designer</li>-->
 
-<div>
-  
 <div>      
-  <p>Sou um desenvolvedor Full-Stack Jr e Designer Gráfico.  
+  <p>Sou um desenvolvedor Full-Stack Jr e Designer Gráfico na Agência Celebrare.  
     
-  Eu tenho conhecimento em programação web, de games e de bem básica em aplicativos, também possuo habilidades em animação com Cinema 4D e 3ds Max, edição de vídeo, desenhos, web design e design gráfico. O que me permite ter uma visão mais ampla e criativa.    
-  
-  Como profissional, sou bastante esforçado e dedicado, sempre buscando ampliar meus conhecimentos e me manter atualizado com as tendências de mercado. Sou detalhista e criativo, características que me ajudam a desenvolver soluções inovadoras e funcionais.</p>
+  Eu tenho conhecimento em programação web, de games e de bem básica em aplicativos, também possuo habilidades em animação com Cinema 4D e 3ds Max, edição de vídeo, desenhos, web design e design gráfico. O que me permite ter uma visão mais ampla e criativa.</p>
 </div>
-
-<br />
   
 <div>
   <h2>Tecnologias:</h2>  
   
   <div style="display: inline_block">
-    <img src="https://devicons.dev.br/icons?icon=HTML,CSS,Sass,JavaScript,React,NextJs,StyledComponents,TypeScript,Git,PHP,Python,Figma,Photoshop,Illustrator&size=50&theme=dark&perline=14">   
+    <img src="https://devicons.dev.br/icons?icon=HTML,CSS,Sass,JavaScript,React,NextJs,StyledComponents,TypeScript,Git,PHP,Python,Figma,Photoshop,Illustrator&size=35&theme=dark&perline=14">   
   </div>
  
   <!--
@@ -31,23 +25,19 @@
   </div>-->
 </div>   
 
-<br />
-
 <div>
   <h2>Redes Sociais:</h2>  
-    <a href="http://linkedin.com/in/brunocostac" target="_blank"><img style="width: 60px; height:60px;" src="./Images/ICON/Linkedin.svg" target="_blank"></a>  
-    <a href="https://www.behance.net/ibrunoc/" target="_blank"><img style="width: 60px; height: 60px;" src="./Images/ICON/Behance.svg" target="_blank"></a>      
-    <a href="https://www.instagram.com/bruno.costa.c/" target="_blank"><img style="width: 60px; height: 60px;" src="./Images/ICON/Instagram.svg" target="_blank"></a>  
-    <a href="https://www.brunoc.dev/"><img style="width: 60px; height: 60px;" src="./Images/ICON/Website.svg" target="_blank"></a>
-    <a href="mailto:bruno.costa.c06@gmail.com"><img style="width: 60px; height: 60px;" src="./Images/ICON/Mail.svg" target="_blank"></a>
+    <a href="http://linkedin.com/in/brunocostac" target="_blank"><img style="width: 45px; height: 45px;" src="./Images/ICON/Linkedin.svg" target="_blank"></a>  
+    <a href="https://www.behance.net/ibrunoc/" target="_blank"><img style="width: 45px; height: 45px;" src="./Images/ICON/Behance.svg" target="_blank"></a>      
+    <!--<a href="https://www.instagram.com/bruno.costa.c/" target="_blank"><img style="width: 45px; height: 45px;" src="./Images/ICON/Instagram.svg" target="_blank"></a>-->
+    <a href="https://www.brunoc.dev/"><img style="width: 45px; height: 45px;" src="./Images/ICON/Website.svg" target="_blank"></a>
+    <a href="mailto:bruno.costa.c06@gmail.com"><img style="width: 45px; height: 45px;" src="./Images/ICON/Mail.svg" target="_blank"></a>
 </div>
-
-<br />
 
 <div>
 <h2>Status no GitHub:</h2> 
   
-<div align="center">
+<div align="left">
        
    | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibrunoc&theme=transparent ) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrunoc&layout=compact&langs_count=8&theme=transparent&hide_border=true)](https://github.com/ibrunoc/github-readme-stats) |
   | :-: | :-: |
