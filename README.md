@@ -10,7 +10,7 @@
   <h2>Tecnologias:</h2>  
   
   <div style="display: inline_block">
-    <img src="https://devicons.dev.br/icons?icon=HTML,CSS,Sass,JavaScript,React,NextJs,Bootstrap,StyledComponents,TypeScript,Git,PHP,Python,Figma,Photoshop,Illustrator&size=35&theme=dark&perline=14">   
+    <img src="https://devicons.dev.br/icons?icon=HTML,CSS,JavaScript,React,NextJs,Sass,StyledComponents,TailwindCSS,Bootstrap,TypeScript,Git,PHP,Python,Figma,Photoshop,Illustrator&size=35&theme=dark&perline=14">   
   </div> 
 </div>   
 
