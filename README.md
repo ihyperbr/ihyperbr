@@ -19,7 +19,6 @@
     <a href="http://linkedin.com/in/brunocostac" target="_blank"><img style="width: 45px; height: 45px;" src="./Images/ICON/Linkedin.svg" target="_blank"></a>  
     <a href="https://www.behance.net/ibrunoc/" target="_blank"><img style="width: 45px; height: 45px;" src="./Images/ICON/Behance.svg" target="_blank"></a>      
     <a href="https://www.brunoc.dev/"><img style="width: 45px; height: 45px;" src="./Images/ICON/Website.svg" target="_blank"></a>
-    <a href="mailto:bruno.costa.c06@gmail.com"><img style="width: 45px; height: 45px;" src="./Images/ICON/Mail.svg" target="_blank"></a>
 </div>
 
 <div>
